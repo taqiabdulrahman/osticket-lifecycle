@@ -18,7 +18,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10</b> (Running 21H2)
 
 <h2>Ticket Lifecycle Stages</h2>
 
@@ -52,10 +52,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h3 align="center">Communication</h3>
 <br />
 <p>
-  Agent John sees this is Sev-A emergency ticket and has to reassign ticket to a System Administrator.
+  Agent John sees this is Sev-A emergency ticket and has to re-assign the ticket to a System Administrator.
 </p>
 <p>
-  He makes sure to leave a proper message:
+  He makes sure to leave a proper and detailed message:
 </p>
 <p>
   <img src="https://i.imgur.com/wVucqKf.png" height="75%" width="100%" alt="Communication"/>
@@ -65,13 +65,13 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h3 align="center">Working the issue</h3>
 <br />
 <p>
-  System Administrator agent Jane Doe logs in:
+  System Administrator agent Jane Doe now logs in:
 </p>
 <p>
   <img src="https://i.imgur.com/i61WQKi.jpg" height="75%" width="100%" alt="Sys admin agent login"/>
 </p>
 <p>
-  Agent Jane works the issue and communicates back to agent John.
+  Agent Jane works the issue and communicates back with agent John.
 </p>
 <p>
   She also makes sure to switch the status of the issue from open to resolved:
@@ -84,7 +84,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h3 align="center">Resolution</h3>
 <br />
 <p>
-  Support agent John sees in his portal that System Administrator agent Jane has left him a message and that the ticket is now closed:>
+  Tech Support agent John sees in his portal that System Administrator agent Jane has left him a message and that the ticket is now closed:>
 </p>
 <p>
   <img src="https://i.imgur.com/kRpUysm.png" height="75%" width="100%" alt="Working the issue"/>
@@ -92,11 +92,11 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <br />
 <br />
 <p>
-  This was a very simplistic scenario of the creation of a ticket by a user, how the ticket is assigned and displays the communication of a ticket between agents; subsequently resulting in a resolution.
+  This was a very simple scenario of the creation of a ticket by a user, The way the ticket is assigned and displays the communication of a ticket between agents. subsequently resulting in a resolution.
 </p>
 <p>
   There are additional scenarios that can also happen while a ticket is being assessed. A ticket can either be reassigned to a different department, escalated in severeity level, or needs to be both reassigned to a more qualified agent/department to handle the issue, depending on business impacts.
 </p>
 <p>
-  I hope this tutorial helps you understand and have a better general overview of a life-cycle of a ticket. Help desk agents can expect to regularly deal with anywere between 10 to 100 tickets during their day depeneding on the company size.
+  I hope this tutorial helps you understand and have a better general overview of the life cycle of a ticket. Help desk agents can expect to regularly work with anywhere between 10 to 100 tickets during their day depeneding on the company size and reach.
 </p>
